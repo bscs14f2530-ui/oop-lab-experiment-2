@@ -9,6 +9,7 @@ Validates day (1–31)
 Validates year (> 0)
 Keeps asking until a valid date is entered
 Displays the final valid date
+
 🛠️ Technologies Used
 C++
 iostream
@@ -32,10 +33,12 @@ Day must be between 1 and 31
 Year must be greater than 0
 If invalid, it asks again.
 If valid, it displays the date.
+
 💻 Sample Input
 Enter date (MM/DD/YYYY): 13/45/2020
 Invalid date! Please enter again.
 
 Enter date (MM/DD/YYYY): 12/25/2023
+
 📤 Sample Output
 Date is: 12/25/2023
